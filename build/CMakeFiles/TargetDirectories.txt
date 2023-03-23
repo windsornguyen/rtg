@@ -1,0 +1,8 @@
+/Users/minhtri/Desktop/Computer Science/ReadyTraderGo/build/CMakeFiles/autotrader.dir
+/Users/minhtri/Desktop/Computer Science/ReadyTraderGo/build/CMakeFiles/edit_cache.dir
+/Users/minhtri/Desktop/Computer Science/ReadyTraderGo/build/CMakeFiles/rebuild_cache.dir
+/Users/minhtri/Desktop/Computer Science/ReadyTraderGo/build/libs/CMakeFiles/edit_cache.dir
+/Users/minhtri/Desktop/Computer Science/ReadyTraderGo/build/libs/CMakeFiles/rebuild_cache.dir
+/Users/minhtri/Desktop/Computer Science/ReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir
+/Users/minhtri/Desktop/Computer Science/ReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/edit_cache.dir
+/Users/minhtri/Desktop/Computer Science/ReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/rebuild_cache.dir
